@@ -1,0 +1,98 @@
+/* Write your CSS here */
+.team-matches-RCB {
+  background-color: #a4261d;
+  min-height: 100vh;
+  background-size: cover;
+  padding: 70px;
+  padding-top: 90px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.team-matches-KKR {
+  background-color: #5755a7;
+  min-height: 100vh;
+  background-size: cover;
+  padding: 70px;
+  padding-top: 90px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.team-matches-KXP {
+  background-color: #da237b;
+  min-height: 100vh;
+  background-size: cover;
+  padding: 70px;
+  padding-top: 90px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.team-matches-CSK {
+  background-color: #13418b;
+  min-height: 100vh;
+  background-size: cover;
+  padding: 70px;
+  padding-top: 90px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.team-matches-RR {
+  background-color: #f26d22;
+  min-height: 100vh;
+  background-size: cover;
+  padding: 70px;
+  padding-top: 90px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.team-matches-MI {
+  background-color: #4f5db0;
+  min-height: 100vh;
+  background-size: cover;
+  padding: 70px;
+  padding-top: 90px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.team-matches-SH {
+  background-color: #f7db00;
+  min-height: 100vh;
+  background-size: cover;
+  padding: 70px;
+  padding-top: 90px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.team-matches-DC {
+  background-color: #13418b;
+  min-height: 100vh;
+  background-size: cover;
+  padding: 70px;
+  padding-top: 90px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.team-banner-url {
+  height: 350px;
+  width: 90vw;
+  border-radius: 10px;
+}
+.latest-matches-title {
+  font-family: bree Serif;
+  font-size: 20px;
+  color: white;
+}
+.match-card-ul {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}

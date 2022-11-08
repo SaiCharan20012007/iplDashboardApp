@@ -1,0 +1,47 @@
+/* Write your CSS here */
+.latest-match-container {
+  background-color: #1e293b;
+  padding: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
+  min-height: 100px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+.latest-match-sec-1 {
+  width: 30%;
+  padding: 10px;
+  color: white;
+  font-family: bree Serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.latest-match-sec-2 {
+  width: 30%;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.latest-match-sec-3 {
+  width: 30%;
+  padding: 10px;
+  color: white;
+  font-family: bree Serif;
+  text-align: right;
+}
+
+.latest-match-title {
+  color: white;
+  font-family: bree Serif;
+  font-weight: 500;
+}
+.date {
+  font-size: 25px;
+}
+.lm-logo {
+  height: 200px;
+}
